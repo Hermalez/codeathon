@@ -2,7 +2,7 @@
 // (2) Merge master-branch to your new branch
 // (3) Pull changes from your branch to your PC
 // (4) Make local changes:
-//          Add your name to the file "shared txt"
+//          Add your name to the file "shared.txt"
 // (5) Commit local changes to your branch.
 // (6) Merge your branch to master branch.
 
